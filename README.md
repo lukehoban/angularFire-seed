@@ -27,7 +27,7 @@ etc to function properly when an html page is opened via `file://` scheme instea
 
 Or, just use Visual Studio Online:
 
-[![Open firebase/angularFire in the Visual Studio Online Editor ](http://try-monaco.azurewebsites.net/Content/editwithvso.png)](http://try-monaco.azurewebsites.net/Home/Hack?repo=https://github.com/firebase/angularFire-seed.git&name=angularFire-seed&defaultFile=readme.md)
+[![Open firebase/angularFire in the Visual Studio Online Editor ](http://try-monaco.azurewebsites.net/Content/editwithvso.png)](http://try-monaco.azurewebsites.net/Home/Hack?repo=https://github.com/lukehoban/angularFire-seed.git&name=angularFire-seed&defaultFile=readme.md)
 
 
 ### Serving pages during development
