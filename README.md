@@ -1,4 +1,3 @@
-
 # angularFire-seed — the seed for AngularFire apps
 
 This project is an application skeleton for a typical [AngularFire](http://angularfire.com/) web app.
@@ -25,6 +24,11 @@ etc to function properly when an html page is opened via `file://` scheme instea
  1. Open app/js/config.js and add your Firebase URL
  1. Go to your Firebase URL and enable email/password authentication under the Auth tab
  1. Start hacking...
+
+Or, just use Visual Studio Online:
+
+[![Open firebase/angularFire in the Visual Studio Online Editor ](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-l-v1-3cc067e71372f6045e1949af9d96095b.png)](http://try-monaco.azurewebsites.net/Home/Hack?repo=https://github.com/firebase/angularFire-seed.git&name=angularFire-seed&defaultFile=readme.md)
+
 
 ### Serving pages during development
 
